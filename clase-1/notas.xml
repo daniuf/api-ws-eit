@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes>
+ <note>
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+  <fecha>2020-08-18</fecha>
+ </note>
+ <note>
+  <to>Pepe</to>
+  <from>Juan</from>
+  <heading>Prueba</heading>
+  <body>Este es un mensaje de prueba</body>
+  <fecha>2020-08-07</fecha>
+ </note>
+</notes>
