@@ -8,7 +8,8 @@ ini_set('date.timezone', 'America/Argentina/Buenos_Aires');
 
 require_once('function.php');
 
-define("WS", "https://jsonplaceholder.typicode.com/posts/1");
+define("WS", "https://jsonplaceholder.typicode.com/posts/1?method=ALGO&parametro2=valor");
+//QUERY_STRING
 
 $ch = curl_init();
 
